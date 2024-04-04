@@ -31,6 +31,5 @@ Things to turn in: <br>
 <b>GitHub:</b> https://github.com/dljimenez2324/MiniChallenge_2-4_Endpoints_MVC <br>
 
 
-Peer Reviewed by ________________ <br>
-Comments:  <br> 
-Content here!!!!<br>
+Peer Reviewed by: Aaron Perez <br>
+Comments: The big 3 endpoints work as required.Endpoint 1 accepts 2 numbers and outputs the sum. Endpoint 2  accvcepts in put to display name and time woke up. Endpoint 3 accepts 2 users input to give an output of which number is less than greater than or equal to. Good Work.  <br>
